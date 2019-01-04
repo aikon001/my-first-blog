@@ -10,8 +10,7 @@
     margin-right: auto;
     background-color: #FFFFFF;
     width: 800px; 
-    outline-style: groove #DB1A1A 8px;
-    outline-color: #DB1A1A;   
+    border: 5px groove #a52a2a;   
 }
 body {
     background-color: #000000;
