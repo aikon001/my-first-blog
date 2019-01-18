@@ -22,7 +22,7 @@ from pages import views
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
     url(r'^',include('pages.urls')),
-    url(r'^markdown/', include('django_markdown.urls')),
+    
     url(r'^summernote/', include('django_summernote.urls')),
     url('post/<slug:slug>/', views.post_detail, name='detail'),
 ]+ static(settings.MEDIA_URL,document_root=settings.MEDIA_ROOT)
