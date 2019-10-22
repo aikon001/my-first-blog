@@ -27,7 +27,7 @@ netaddr==0.7.19
 netifaces==0.10.4
 numpy==1.13.3
 paramiko==2.4.2
-Pillow==5.1.0
+Pillow==6.2.0
 pyasn1==0.4.5
 pycairo==1.16.2
 pycparser==2.19
