@@ -19,7 +19,7 @@ HTMLParser==0.0.2
 idna==2.8
 ipaddress==1.0.22
 jwcrypto==0.6.0
-lxml==4.2.1
+lxml==4.6.2
 Markdown==2.6.9
 mechanize==0.2.5
 msgpack==0.5.6
